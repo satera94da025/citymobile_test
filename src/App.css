@@ -1,0 +1,36 @@
+.footer {
+    height: 100px;
+    width: 100%;
+    background-color: #696666;
+    border-radius: 3vh;
+    text-align: center;
+    color: #f52560;
+}
+.content-wrapper {
+    height: calc(100vh - 200px);
+    display: flex;
+}
+
+.header {
+    background-color: #696666;
+    height: 100px;
+    text-align: center;
+    border-radius: 3vh;
+    color: #f52560;
+}
+
+.main {
+    height: calc(100% - 32px);
+    width: 100%;
+    margin: 16px;
+}
+
+.sidebar {
+    color: #f52560;
+    border-radius: 3vh;
+    height: 100%;
+    width: 150px;
+    background-color: #696666;
+    text-align: center;
+}
+
